@@ -8,7 +8,7 @@ import React, {
 } from "react";
 import io from "socket.io-client";
 import { useRouter } from "next/router";
-const ENDPOINT = "http://localhost:5000";
+const ENDPOINT = "https://locatepeer.herokuapp.com/";
 const Context = createContext();
 
 function AppProvider({ children }) {
