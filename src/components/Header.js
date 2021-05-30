@@ -23,7 +23,7 @@ function Header() {
           colorScheme="whatsapp"
           onClick={() =>
             (window.location.href =
-              "https://github.com/harshmangalam/live-location-tracking-nextjs-socketio")
+              "https://github.com/harshmangalam/live-location-tracker-nextjs-client")
           }
         >
           Github Repo
